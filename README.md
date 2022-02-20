@@ -1,4 +1,4 @@
-Exercícios de Java usando o framework Spring boot usando um banco de dados em memória chamado H2.
+Exercícios de Java do curso Java web e Spring do Prof. Nélio Alves usando o framework Spring boot usando um banco de dados em memória chamado H2.
 As tabelas do banco foram populadas através de um arquivo chamado import.sql onde foram inseridas as querys iniciais do banco.
 
 No arquivo application.proprieties foram inseridas configurações para acesso ao banco de dados em memória.
